@@ -1,7 +1,7 @@
 # gltf-dwarf_warrior
 This is a glTF, rearranged version of Northcliffe's Dwarf Warrior as distributed at https://sketchfab.com/3d-models/dwarf-warrior-b9fcc240bc0642649d39a8ca845b56aa on 2025-06-11.
 
-![Preview image](Preview.jpg)
+![Preview image](Preview.JPG)
 
 # Credit :
 This work is based on "Dwarf Warrior" (https://sketchfab.com/3d-models/dwarf-warrior-b9fcc240bc0642649d39a8ca845b56aa) by Northcliffe (https://sketchfab.com/Samson.Northcliffe.Rydenko) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
